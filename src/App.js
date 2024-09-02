@@ -1,4 +1,5 @@
 //import logo from './logo.svg';
+//deploy my react app in the git hub
 import './App.css';
 import Navbar from './components/Navbar';
 import TextForm from './components/TextForm';
