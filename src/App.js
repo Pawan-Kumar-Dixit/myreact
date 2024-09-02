@@ -55,7 +55,7 @@ function App() {
   return (
     <>
     {/* <Router> */}
-    <Navbar title="MyReact" aboutText="About Us" mode={mode} toggleMode={toggleMode}/>
+    <Navbar title="MyReacts" aboutText="About Us" mode={mode} toggleMode={toggleMode}/>
     <Alert alert={alert}/>
     <div className="container">
         {/* <Routes>
